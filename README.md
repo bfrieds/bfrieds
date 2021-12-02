@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @bfrieds
+- 👀 I’m interested in ... control systems, industrial machinery, web development
+- 🌱 I’m currently learning ... django
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
